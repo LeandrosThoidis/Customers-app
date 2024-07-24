@@ -1,0 +1,1 @@
+I used Delphi RAD Studio 12.1, to write the code and design of the app. The two files are in the folder. As far as i know about Delphi to setup the application u need to download the files on desktop in order to run them. I used SQLite for database(had an issue with Firebird), and included the file, also exported it.
